@@ -5,5 +5,5 @@ Hi! Thank you for visiting my Dashboard Portfolio. This portfolio showcases vari
 ## Contents of the Portfolio
 The dashboards in this portfolio cover a variety of use cases, including:
 
-- **COVID Analysis**: Provides insights into the covid cases and deaths.
+- **COVID Analysis**: Provides insights into the covid cases and deaths. [Link] (https://public.tableau.com/app/profile/lucas.gonzalez.sonnenberg/viz/CovidProject_17309931047900/Dashboard1?publish=yes)
 
