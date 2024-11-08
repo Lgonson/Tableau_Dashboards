@@ -7,6 +7,6 @@ The dashboards in this portfolio cover a variety of use cases, including:
 
 - **COVID Analysis**: Provides insight into the COVID19 infection rate and mortality rate per country.
   [Link](https://public.tableau.com/app/profile/lucas.gonzalez.sonnenberg/viz/CovidProject_17309931047900/Dashboard1?publish=yes)
-  **Dengue Analysis**: Provides insight into the Dengue infection rate per country.
+- **Dengue Analysis**: Provides insight into the Dengue infection rate per country.
   [Link](https://public.tableau.com/app/profile/lucas.gonzalez.sonnenberg/viz/Dengue_1_17310648963750/Dashboard1?publish=yes)
 
